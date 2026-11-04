@@ -95,3 +95,4 @@
 [2026-11-04T17:11:12Z] Solicitud de merge registrada para PR #21
 [2026-11-04T17:11:22Z] PR #21 fusionada en main (merge)
 [2026-11-04T17:11:28Z] Ciclo 5: iniciando fase Quickdraw (issue + comentario + cierre)
+[2026-11-04T17:11:38Z] Issue #22: comentario Markdown publicado
