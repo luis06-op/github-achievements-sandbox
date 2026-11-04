@@ -33,3 +33,4 @@
 [2026-11-04T17:04:38Z] PR #7 fusionada en main (merge)
 [2026-11-04T17:04:45Z] Ciclo 3: iniciando fase Quickdraw (issue + comentario + cierre)
 [2026-11-04T17:04:53Z] Issue #8: comentario Markdown publicado
+[2026-11-04T17:04:56Z] Issue #8: cerrada en 4.05s
