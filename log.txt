@@ -1,1 +1,2 @@
 log line 2
+log line 6
